@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya memiliki latar belakang di bidang teknologi informasi, dengan fokus pada pengembangan Mobile React Native. Saya adalah tipe orang yang memanfaatkan setiap kesempatan untuk mempelajari sesuatu yang baru. Itu sebabnya saya menikmati tantangan. Dari sana, saya mendapat tekanan untuk belajar dengan cepat dan mendapatkan banyak pengalaman baru.
+Saya memiliki latar belakang di bidang teknologi informasi, dengan fokus pada pengembangan Mobile React Native dan Backend Developer. Saya adalah tipe orang yang memanfaatkan setiap kesempatan untuk mempelajari sesuatu yang baru. Itu sebabnya saya menikmati tantangan. Dari sana, saya mendapat tekanan untuk belajar dengan cepat dan mendapatkan banyak pengalaman baru.
 
 
 # 💻 Tech Stack:
